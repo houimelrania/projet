@@ -13,6 +13,8 @@
      * @throws ParseException If the YAML is not valid
      */
     public static function parse(string $input, int $flags = 0)
+
+/****test-branche***//////
     { 					$yaml = new Parser2();
         $yaml = new Parser();
         return $yaml->parse($input, $flags);
